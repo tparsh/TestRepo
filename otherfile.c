@@ -3,7 +3,7 @@
 
 void printstuff(void)
 {
-	uint8_t printInt = 0;
+	uint8_t printInt = 1;
 	
 	printf("I eat %d", printInt);
 }
