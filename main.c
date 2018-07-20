@@ -1,7 +1,7 @@
 
 void main(void)
 {
-	return 2;
+	return 1;
 }
 
 static void f1(void)
